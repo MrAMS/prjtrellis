@@ -1,0 +1,5 @@
+{
+  "integrity": "",
+  "strip_prefix": "prjtrellis-{VERSION}",
+  "url": "https://github.com/{OWNER}/{REPO}/releases/download/v{VERSION}/prjtrellis-{VERSION}.tar.gz"
+}
